@@ -13,8 +13,8 @@
 
     const pool=mysql.createPool({
         host: 'sql.freedb.tech',
-        user: 'u_f32XC2',
-        password: 'TFRnH9axRtnt',
+        user: 'u_a3nugI',
+        password: 'ucaoDCgMFriv',
         database: 'freedb_LzdJ2It0',
         connectionLimit: 10,
         waitForConnections: true,
